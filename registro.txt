@@ -18,3 +18,5 @@ Profesor : Daniel
 <--Aquí vamos a continuar la aplicación-->
 
 //Fin del apartado de desarrollo
+
+“Modificación realizada desde GitHub”
