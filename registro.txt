@@ -13,3 +13,6 @@ Colegio: Equipo Formación y Empleo
 Direccion Colegio: Calle Alta 34 
 
 Profesor : Daniel
+
+//Apartado del equipo de desarrollo
+<--Aquí vamos a continuar la aplicación-->
