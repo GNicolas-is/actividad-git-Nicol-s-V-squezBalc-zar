@@ -9,3 +9,5 @@ Versión: 1
 Asignatura : Herramientas
 
 Colegio: Equipo Formación y Empleo 
+
+Direccion Colegio: Calle Alta 34 
